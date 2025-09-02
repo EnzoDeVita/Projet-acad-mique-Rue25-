@@ -22,3 +22,4 @@ Mettre en place un réseau d’entreprise avec un serveur Windows Server 2019, A
 - Structuration d’un domaine d’entreprise
 
 
+![Installation ADDS](serveur_ADDS__install.jpg)
